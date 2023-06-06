@@ -3,7 +3,7 @@
     "Name": "proc-macro-error",
     "License": "Apache License V2.0, MIT",
     "License File": "LICENSE-APACHE, LICENSE-MIT",
-    "Version Number": "1.0.53",
+    "Version Number": "1.0.4",
     "Owner": "fangting12@huawei.com",
     "Upstream URL": "https://gitlab.com/CreepySkeleton/proc-macro-error",
     "Description": "A Rust library that provides support for procedural macros."
