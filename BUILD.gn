@@ -37,4 +37,7 @@ ohos_cargo_crate("lib") {
   build_root = "build.rs"
   build_sources = [ "build.rs" ]
   build_deps = [ "//third_party/rust/crates/version_check:lib" ]
+  module_output_extension = ".rlib"
+  part_name = "rust_proc_macro_error"
+  subsystem_name = "thirdparty"
 }
